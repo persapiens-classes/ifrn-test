@@ -3,7 +3,7 @@ Calendar
 
 1. [First Meeting](class\first-meeting.md)
 
-2. Quality of Code & Code Smells (pmd)
+2. [Quality of Code](class\quality-of-code.md) & Code Smells (pmd)
 
 3. Duplicated Code (cpd) && Static Bugs (spotbugs)
 
