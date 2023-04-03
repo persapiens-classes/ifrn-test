@@ -18,6 +18,10 @@ According to Zarnekow et All in Paper Distribution of cost over the application 
 
 **Have you ever seen any security issues recently?**
 
+Let's see this report about [SQL Injection Attack.](https://www.scmagazine.com/resource/data-security/how-the-latest-sql-injection-attacks-threaten-web-application-firewalls) 
+
+Let's see the description of [SQL Inject Attack.](https://owasp.org/www-community/attacks/SQL_Injection)
+
 
 ## How to improve quality of code?
 
