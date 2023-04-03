@@ -1,4 +1,4 @@
-First Meeting
+:wave: First Meeting
 ====
 
 1. Overall Syllabus Explanation: [Objectives](../objectives.md), [Contents](../contents.md), [Calendar](../calendar.md)
@@ -8,7 +8,7 @@ First Meeting
 5. [Version Control Level](../assessment.md)
 6. [Communication Definition](../communication.md)
 
-## Task
+## 👷 Task
 
 Create one pull requests for your project according to [Task Submission Guidelines.](../assessment.md#task-submission)
 
