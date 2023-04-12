@@ -5,7 +5,7 @@ Calendar
 
 2. [Quality of Code](class/quality-of-code.md) & [Code Smells (pmd)](class/code-smells.md)
 
-3. Duplicated Code (cpd) && Static Bugs (spotbugs)
+3. [Duplicated Code (cpd)](class/duplicated-code.md) && Static Bugs (spotbugs)
 
 4. Coding Standards (checkstyle)
 
