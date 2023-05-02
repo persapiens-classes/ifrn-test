@@ -7,9 +7,9 @@ Calendar
 
 3. [Duplicated Code (cpd)](class/duplicated-code.md) && [Static Bugs (spotbugs)](class/static-bugs.md)
 
-4. [Coding Standards (checkstyle)](class/coding-standards.md)]
+4. [Coding Standards (checkstyle)](class/coding-standards.md)
 
-5. Quality Analysis Server (sonarqube)
+5. [Quality Analysis Server (sonarqube)](class/quality-analysis-server.md)
 
 6. Test Basic Concepts (2 classes)
 
