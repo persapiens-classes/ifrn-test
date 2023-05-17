@@ -11,7 +11,7 @@ Calendar
 
 5. [Quality Analysis Server (sonarqube)](class/quality-analysis-server.md)
 
-6. Test Basic Concepts (2 classes)
+6. [Test Basic Concepts](class/test-overview.md)
 
 7. Test Principles, Techniques, and tools (2 classes)
 
