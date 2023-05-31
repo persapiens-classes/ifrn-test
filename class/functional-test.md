@@ -6,7 +6,7 @@ Functional Test
 ## Types of Functional Test ##
 
 - [Unit Testing](unit-test.md)
-- Integration Testing
+- [Integration Testing](integration-test.md)
 - System Testing
 - Sanity Testing
 - Smoke Testing
