@@ -7,7 +7,7 @@ See full [Spring Data JPA Reference Documentation](https://docs.spring.io/spring
 
 # Using Repositories Interfaces
 
-```
+```java
 public interface CategoriaRepository extends CrudRepository<Categoria, Long> {
 }
 ```
@@ -15,7 +15,7 @@ public interface CategoriaRepository extends CrudRepository<Categoria, Long> {
 
 # Using Repositories Interfaces with Query Methods
 
-```
+```java
 public interface ValorInicialDoDonoNaContaPatrimonioRepository extends CrudRepository<ValorInicialDoDonoNaContaPatrimonio, Long> {
     
   ValorInicialDoDonoNaContaPatrimonio findByDonoAndContaPatrimonio(Dono dono, ContaPatrimonio contaPatrimonio);
@@ -25,7 +25,7 @@ public interface ValorInicialDoDonoNaContaPatrimonioRepository extends CrudRepos
 
 # Using Query By Example
 
-```
+```java
 public interface ContaCreditoRepository extends CrudRepository<ContaCredito, Long>, QueryByExampleExecutor<ContaCredito> {
 }
 ```

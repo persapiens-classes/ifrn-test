@@ -37,7 +37,7 @@ Using [Baeldung post](https://www.baeldung.com/spring-data-jpa-generate-db-schem
 
 - Add Configuration to your application.yml
 
-```
+```yaml
 spring:
   jpa:
     properties:
