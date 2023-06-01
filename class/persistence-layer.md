@@ -68,8 +68,11 @@ Using [Baeldung post](https://www.baeldung.com/spring-data-jpa-generate-db-schem
 Create one pull request for your project according to [Task Submission Guidelines.](../assessment.md#task-submission)
 
 Annotate your domain classes with persistence class annotations.
+
 Annotate your domain classes with persistence attribute annotations.
+
 Annotate your domain classes with persistence relationship annotations.
+
 Create the schema create and drop scripts of your database from your domain classes.
 
 Create a **separate commit** to each step of this activity.
