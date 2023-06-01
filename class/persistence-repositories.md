@@ -8,7 +8,7 @@ See full [Spring Data JPA Reference Documentation](https://docs.spring.io/spring
 # Using Repositories Interfaces
 
 ```
-public interface CategoriaRepository extends        CrudRepository<Categoria, Long> {
+public interface CategoriaRepository extends CrudRepository<Categoria, Long> {
 }
 ```
 
