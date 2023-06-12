@@ -9,7 +9,35 @@ First of all, review [Persistence Layer](persistence-layer.md).
 
 ## :star: Integration testing match with Persistence Layer ##
 
-### Hands on with [Conta Example Project.](https://github.com/persapiens/conta/tree/main/src/test/java/br/edu/ifrn/conta/persistence)
+[Baeldung post](https://www.baeldung.com/spring-boot-testing) is a good start to understand Spring Boot Testing.
+
+### Activate integration tests at pom
+```xml
+    <build>
+        <plugins>
+            <plugin>
+                <groupId>org.apache.maven.plugins</groupId>
+                <artifactId>maven-failsafe-plugin</artifactId>
+            </plugin>
+        </plugins>
+    </build>
+```
+
+### See Integration classes 
+
+- Class with IT extension
+
+- Class with @SpringBootTest annotation
+
+- Methods with @Test annotation
+
+### See factory classes that help creating testing scenarios
+
+- Factory Classes with @Component annotation
+
+- Test Class with @Autowired annotation on attributes
+
+### Hands on with [Conta Example Project.](https://github.com/persapiens/conta/issues/134)
 
 ## :construction_worker: Task
 
