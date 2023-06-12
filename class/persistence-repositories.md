@@ -26,7 +26,7 @@ public interface ValorInicialDoDonoNaContaPatrimonioRepository extends CrudRepos
 # Using Query By Example
 
 ```java
-public interface ContaCreditoRepository extends CrudRepository<ContaCredito, Long>, QueryByExampleExecutor<ContaCredito> {
+public interface ContaRepository extends CrudRepository<Conta, Long>, QueryByExampleExecutor<Conta> {
 }
 ```
 

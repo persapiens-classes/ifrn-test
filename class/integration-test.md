@@ -9,6 +9,18 @@ First of all, review [Persistence Layer](persistence-layer.md).
 
 ## :star: Integration testing match with Persistence Layer ##
 
+### Activate integration tests at pom
+```xml
+    <build>
+        <plugins>
+            <plugin>
+                <groupId>org.apache.maven.plugins</groupId>
+                <artifactId>maven-failsafe-plugin</artifactId>
+            </plugin>
+        </plugins>
+    </build>
+```
+
 ### Hands on with [Conta Example Project.](https://github.com/persapiens/conta/tree/main/src/test/java/br/edu/ifrn/conta/persistence)
 
 ## :construction_worker: Task
