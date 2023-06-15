@@ -30,5 +30,4 @@ public interface ContaRepository extends CrudRepository<Conta, Long>, QueryByExa
 }
 ```
 
-
 ## Hands on with [Conta Example Project.](https://github.com/persapiens/conta/tree/main/src/main/java/br/edu/ifrn/conta/persistencia)
