@@ -7,7 +7,7 @@ Functional Test
 
 - [Unit Testing](unit-test.md)
 - [Integration Testing](integration-test.md)
-- [System Testing](integration-test.md)
+- [System Testing](system-test.md)
 - Sanity Testing
 - Smoke Testing
 - Interface Testing
