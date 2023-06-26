@@ -14,6 +14,7 @@ Calendar
 6. [Test Basic Concepts](class/test-overview.md)
 
 7. Test Principles, Techniques, and tools (2 classes)
+    1. [Test Coverage](class/test-coverage.md)
 
 8. Test-Driven Development
 
