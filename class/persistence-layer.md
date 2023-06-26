@@ -3,7 +3,7 @@ Persistence Layer
 
 - Contains **classes** and **annotations** that are responsible to persist domain application classes.
 - **Must** be involved with **non-functional requirements** of the application: persistence, transaction isolation.
-- **Dependent** of persistence technology.
+- **Dependent** of persistence technology and model layer.
 
 # Application Layers #
 
