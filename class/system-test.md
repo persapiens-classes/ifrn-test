@@ -5,7 +5,9 @@ System Test
 
 ## Controller Layer ##
 
-First of all, review [Controller Layer](controller-layer.md).
+1. First of all, review [Controller Layer](controller-layer.md).
+
+2. Now, [See detailed Application Layer explanation class.](application-layers.md)
 
 ## :star: System testing match with Controller Layer ##
 
